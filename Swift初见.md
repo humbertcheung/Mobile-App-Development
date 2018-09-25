@@ -30,25 +30,25 @@ iOS开发中，我们需要根据用户需要去适配各种各样的版本，�
 
 因为在我们的课程当中使用的是Swift4.0版本，所以主要讲解Swift与Xcode的适配问题，各版本适配情况如下：
 
-> Swift 1.0-------Xcode 6/n
-> Swift 1.1-------Xcode 6.1.1
-> Swift 1.2-------Xcode 6.3
-> Swift 2.0-------Xcode 7.0
-> Swift 2.1-------Xcode 7.1
-> Swift 2.1.1-----Xcode 7.2
-> Swift 2.2-------Xcode 7.3
-> Swift 2.2.1-----Xcode 7.3.1
-> Swift 3.0-------Xcode 8
-> Swift 3.0.1-----Xcode 8.1
-> Swift 3.0.2-----Xcode 8.2
-> Swift 3.1-------Xcode 8.3
-> Swift 3.1.1-----Xcode 8.3.2
-> Swift 4.0-------Xcode 9.0
-> Swift 4.0.2-----Xcode 9.1
-> Swift 4.0.3-----Xcode 9.2
-> Swift 4.0.1-----Xcode 9.3
-> Swift 4.1.1-----Xcode 9.3
-> Swift 4.1.2-----Xcode 9.4
+* Swift 1.0-------Xcode 6/n
+* Swift 1.1-------Xcode 6.1.1
+* Swift 1.2-------Xcode 6.3
+* Swift 2.0-------Xcode 7.0
+* Swift 2.1-------Xcode 7.1
+* Swift 2.1.1-----Xcode 7.2
+* Swift 2.2-------Xcode 7.3
+* Swift 2.2.1-----Xcode 7.3.1
+* Swift 3.0-------Xcode 8
+* Swift 3.0.1-----Xcode 8.1
+* Swift 3.0.2-----Xcode 8.2
+* Swift 3.1-------Xcode 8.3
+* Swift 3.1.1-----Xcode 8.3.2
+* Swift 4.0-------Xcode 9.0
+* Swift 4.0.2-----Xcode 9.1
+* Swift 4.0.3-----Xcode 9.2
+* Swift 4.0.1-----Xcode 9.3
+* Swift 4.1.1-----Xcode 9.3
+* Swift 4.1.2-----Xcode 9.4
 
 *那么如何查看当前的Swift版本？*
 
