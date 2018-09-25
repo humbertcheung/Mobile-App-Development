@@ -62,7 +62,7 @@ iOS开发中，我们需要根据用户需要去适配各种各样的版本，�
 
 *另外，点击版本，还可以查看当前Xcode版本可兼容的其他版本的Swift，可以切换版本。*
 
-##Xcode与Mac OS、iOS、Simulators版本适配
+## Xcode与Mac OS、iOS、Simulators版本适配
 
 
 ![](media/15359802219511/15359850066759.jpg)![](media/15359802219511/15359850414902.jpg)
