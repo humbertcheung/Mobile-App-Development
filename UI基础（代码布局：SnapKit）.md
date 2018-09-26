@@ -60,7 +60,7 @@ class ViewController: UIViewController {
 ```
 效果如下：
 
-![](media/15378445151174/15378839824812.jpg/2/300)
+![](media/15378445151174/15378839824812.jpg/2/300){:height="50%" width="50%"}
 
 
 又如：
