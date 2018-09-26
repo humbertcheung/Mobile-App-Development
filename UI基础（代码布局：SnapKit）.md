@@ -60,7 +60,7 @@ class ViewController: UIViewController {
 ```
 效果如下：
 
-![-w300](media/15378445151174/15378839824812.jpg)
+![](media/15378445151174/15378839824812.jpg)
 
 
 又如：
